@@ -20,3 +20,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+# Array
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
