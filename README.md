@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Math
 |  |
 | ------- |
@@ -33,3 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+# Binary Search
+|  |
+| ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
