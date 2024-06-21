@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0523-continuous-subarray-sum) |
+| [1138-grumpy-bookstore-owner](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1675-magnetic-force-between-two-balls) |
 # Math
@@ -44,3 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1138-grumpy-bookstore-owner) |
