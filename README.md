@@ -49,3 +49,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1138-grumpy-bookstore-owner) |
+# Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0094-binary-tree-inorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0094-binary-tree-inorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0094-binary-tree-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0094-binary-tree-inorder-traversal) |
