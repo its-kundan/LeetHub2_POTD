@@ -75,3 +75,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0102-binary-tree-level-order-traversal) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+<!---LeetCode Topics End-->
