@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1333-sort-the-jumbled-numbers) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
