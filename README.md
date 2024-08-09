@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1293-three-consecutive-odds) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
@@ -226,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
