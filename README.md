@@ -84,12 +84,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -213,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
