@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
