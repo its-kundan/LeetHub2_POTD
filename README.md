@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
+| [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
+| [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
+| [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
+| [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -299,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0476-number-complement) |
+## Enumeration
+|  |
+| ------- |
+| [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 <!---LeetCode Topics End-->
