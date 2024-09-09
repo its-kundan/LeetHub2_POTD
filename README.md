@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
