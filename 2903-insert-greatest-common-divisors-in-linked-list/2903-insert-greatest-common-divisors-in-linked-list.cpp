@@ -15,19 +15,17 @@ public:
         return a;
     return gcd(b, a % b);
     }
-    ListNode* insertGreatestCommonDivisors(ListNode* head) {
-         if (!head->next) return head;
-        int x=head->val, y;
-        for(ListNode* prev=head, *ptr=head->next; ptr;ptr=ptr->next){
-            int y=ptr->val;
-        //    cout<<gcd(x, y)<<"-->";
-            ListNode* newNode=new ListNode(gcd(x, y), ptr);
-            prev->next=newNode;
-            prev=ptr;
-        //    if(ptr) cout<<ptr->val<<endl;
-            x=y;
+   ListNode* insertGreatestCommonDivisors(ListNode* head) {
+        ListNode* temp = head;
+        while (temp != nullptr && temp->next != nullptr) {
+            int x = temp->val;
+            int y = temp->next->val;
+            int res = gcd(x, y); 
+            ListNode* gcdNode = new ListNode(res);
+            gcdNode->next = temp->next;
+            temp->next = gcdNode;
+            temp = gcdNode->next;
         }
         return head;
-        
     }
 };
