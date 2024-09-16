@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0906-walking-robot-simulation) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1333-sort-the-jumbled-numbers) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
