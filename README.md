@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
@@ -353,4 +356,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
