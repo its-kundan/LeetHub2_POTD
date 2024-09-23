@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
 | [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 | [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
 |  |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -370,4 +374,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
