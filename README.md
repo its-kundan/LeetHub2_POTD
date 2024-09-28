@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -403,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
