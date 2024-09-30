@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
 ## Tree
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
