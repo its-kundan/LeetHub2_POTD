@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Shortest Path
