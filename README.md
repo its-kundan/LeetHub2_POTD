@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0731-my-calendar-ii) |
+| [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0906-walking-robot-simulation) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0650-2-keys-keyboard) |
+| [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
@@ -429,4 +431,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0432-all-oone-data-structure) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
