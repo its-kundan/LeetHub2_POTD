@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0650-2-keys-keyboard) |
 | [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
@@ -437,4 +438,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0593-valid-square](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
