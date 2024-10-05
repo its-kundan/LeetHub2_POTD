@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0906-walking-robot-simulation) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Math
 |  |
