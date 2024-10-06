@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1923-sentence-similarity-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1923-sentence-similarity-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
