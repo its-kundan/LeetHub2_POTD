@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1293-three-consecutive-odds) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -456,4 +458,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0866-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
