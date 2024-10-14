@@ -11,7 +11,8 @@ public:
             int t = pq.top();
             pq.pop();
             ans+= t;
-            pq.push((t/3)+(t%3!=0));
+            pq.push(ceil(t/3.0));
+            // pq.push((t/3)+(t%3!=0));
         }
         return ans;
         
