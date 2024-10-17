@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0870-magic-squares-in-grid) |
