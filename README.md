@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
