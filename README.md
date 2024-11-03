@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1197-parsing-a-boolean-expression) |
@@ -504,4 +505,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
