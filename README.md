@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
+| [3291-find-if-array-can-be-sorted](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2846-robot-collisions) |
+| [3291-find-if-array-can-be-sorted](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3291-find-if-array-can-be-sorted) |
 | [3534-count-almost-equal-pairs-i](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/its-kundan/LeetHub2_POTD/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
