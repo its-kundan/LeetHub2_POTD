@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2089-maximum-matrix-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/its-kundan/LeetHub2_POTD/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/its-kundan/LeetHub2_POTD/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
